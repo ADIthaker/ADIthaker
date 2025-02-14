@@ -2,7 +2,7 @@
 <p>I'm a software engineer with a passion for building innovative, scalable solutions. With experience in full-stack development, cloud computing, and machine learning, I enjoy turning complex ideas into impactful applications. Whether it's designing seamless user experiences, optimizing backend systems, or exploring the intersection of AI and software, I thrive on solving challenging problems.
 
 Let's create something extraordinary together!</p>
-- 🔭 I’m currently working on [Low Level Network Acceleration](https://github.com/ADIthaker/XDP_SFU)
+- 🔭 I’m currently working on improving efficiency of video conferencing servers, using [network acceleration](https://github.com/ADIthaker/XDP_SFU) 
 
 - 👨‍💻 All of my projects are available at [my github](www.ADIthaker.github.io)
 
